@@ -213,6 +213,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.5",
           "Pomelo.EntityFrameworkCore.MySql": "5.0.0-beta.1"
         },
         "compile": {
@@ -667,38 +668,37 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Microsoft.EntityFrameworkCore >= 5.0.5",
       "Model >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+    "C:\\Users\\serbi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\RiderProjects\\Cruise\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\serbi\\Projects\\Cruise\\Cruise\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\Administrator\\RiderProjects\\Cruise\\Domain\\Domain.csproj",
-      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\RiderProjects\\Cruise\\Domain\\obj\\",
+      "projectPath": "C:\\Users\\serbi\\Projects\\Cruise\\Cruise\\Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\serbi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\serbi\\Projects\\Cruise\\Cruise\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\serbi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Administrator\\RiderProjects\\Cruise\\Model\\Model.csproj": {
-              "projectPath": "C:\\Users\\Administrator\\RiderProjects\\Cruise\\Model\\Model.csproj"
+            "C:\\Users\\serbi\\Projects\\Cruise\\Cruise\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\serbi\\Projects\\Cruise\\Cruise\\Model\\Model.csproj"
             }
           }
         }
@@ -712,6 +712,12 @@
     "frameworks": {
       "net5.0": {
         "targetAlias": "net5.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[5.0.5, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
@@ -727,7 +733,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
