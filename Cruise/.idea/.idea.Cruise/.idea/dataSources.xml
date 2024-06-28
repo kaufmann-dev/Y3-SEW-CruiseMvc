@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="cruise@localhost" uuid="09e14bd4-ebb0-499c-9feb-81c445305a52">
+    <data-source source="LOCAL" name="cruise@78.47.70.13" uuid="0543286e-e0bf-451c-80e6-044cbb025456">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306/cruise</jdbc-url>
+      <jdbc-url>jdbc:mysql://78.47.70.13:3360/cruise</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
-      <driver-properties>
-        <property name="serverTimezone" value="ECT" />
-      </driver-properties>
     </data-source>
   </component>
 </project>

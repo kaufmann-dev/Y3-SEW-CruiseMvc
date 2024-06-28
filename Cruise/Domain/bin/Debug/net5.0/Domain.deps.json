@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v5.0": {
       "Domain/1.0.0": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.5",
           "Model": "1.0.0"
         },
         "runtime": {
@@ -184,6 +185,7 @@
       },
       "Model/1.0.0": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.5",
           "Pomelo.EntityFrameworkCore.MySql": "5.0.0-beta.1"
         },
         "runtime": {

@@ -5,9 +5,8 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace Model.Entity
 {
     [Table("BOOKINGS")]
-    public class Bookings
+    public class Booking
     {
-        
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         [Key]
         [Column("BOOKING_ID")]
