@@ -1,0 +1,209 @@
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\View.csprojAssemblyReference.cache
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\View.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\View.AssemblyInfoInputs.cache
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\View.AssemblyInfo.cs
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\View.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\View.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\View.RazorComponent.input.cache
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\View.RazorComponent.output.cache
+C:\Users\Administrator\RiderProjects\Cruise\View\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Administrator\RiderProjects\Cruise\View\bin\Debug\net5.0\appsettings.json
+C:\Users\Administrator\RiderProjects\Cruise\View\bin\Debug\net5.0\View.StaticWebAssets.xml
+C:\Users\Administrator\RiderProjects\Cruise\View\bin\Debug\net5.0\View.exe
+C:\Users\Administrator\RiderProjects\Cruise\View\bin\Debug\net5.0\View.deps.json
+C:\Users\Administrator\RiderProjects\Cruise\View\bin\Debug\net5.0\View.runtimeconfig.json
+C:\Users\Administrator\RiderProjects\Cruise\View\bin\Debug\net5.0\View.runtimeconfig.dev.json
+C:\Users\Administrator\RiderProjects\Cruise\View\bin\Debug\net5.0\View.dll
+C:\Users\Administrator\RiderProjects\Cruise\View\bin\Debug\net5.0\ref\View.dll
+C:\Users\Administrator\RiderProjects\Cruise\View\bin\Debug\net5.0\View.pdb
+C:\Users\Administrator\RiderProjects\Cruise\View\bin\Debug\net5.0\View.Views.dll
+C:\Users\Administrator\RiderProjects\Cruise\View\bin\Debug\net5.0\View.Views.pdb
+C:\Users\Administrator\RiderProjects\Cruise\View\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Administrator\RiderProjects\Cruise\View\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\RiderProjects\Cruise\View\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\RiderProjects\Cruise\View\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\RiderProjects\Cruise\View\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\RiderProjects\Cruise\View\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\RiderProjects\Cruise\View\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\Administrator\RiderProjects\Cruise\View\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Administrator\RiderProjects\Cruise\View\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\RiderProjects\Cruise\View\bin\Debug\net5.0\Domain.dll
+C:\Users\Administrator\RiderProjects\Cruise\View\bin\Debug\net5.0\Model.dll
+C:\Users\Administrator\RiderProjects\Cruise\View\bin\Debug\net5.0\Domain.pdb
+C:\Users\Administrator\RiderProjects\Cruise\View\bin\Debug\net5.0\Model.pdb
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\RazorDeclaration\View.dll
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\View.TagHelpers.input.cache
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\View.TagHelpers.output.cache
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\View.RazorCoreGenerate.cache
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\View.RazorAssemblyInfo.cache
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\View.RazorAssemblyInfo.cs
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\staticwebassets\View.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\staticwebassets\View.StaticWebAssets.xml
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\scopedcss\bundle\View.styles.css
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\scopedcss\projectbundle\View.bundle.scp.css
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\View.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\View.RazorTargetAssemblyInfo.cs
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\View.Views.pdb
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\View.csproj.CopyComplete
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\View.dll
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\ref\View.dll
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\View.pdb
+C:\Users\Administrator\RiderProjects\Cruise\View\obj\Debug\net5.0\View.genruntimeconfig.cache
+C:\Users\serbi\Projects\Cruise\Cruise\View\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\serbi\Projects\Cruise\Cruise\View\bin\Debug\net5.0\appsettings.json
+C:\Users\serbi\Projects\Cruise\Cruise\View\bin\Debug\net5.0\View.StaticWebAssets.xml
+C:\Users\serbi\Projects\Cruise\Cruise\View\bin\Debug\net5.0\View.exe
+C:\Users\serbi\Projects\Cruise\Cruise\View\bin\Debug\net5.0\View.deps.json
+C:\Users\serbi\Projects\Cruise\Cruise\View\bin\Debug\net5.0\View.runtimeconfig.json
+C:\Users\serbi\Projects\Cruise\Cruise\View\bin\Debug\net5.0\View.runtimeconfig.dev.json
+C:\Users\serbi\Projects\Cruise\Cruise\View\bin\Debug\net5.0\View.dll
+C:\Users\serbi\Projects\Cruise\Cruise\View\bin\Debug\net5.0\ref\View.dll
+C:\Users\serbi\Projects\Cruise\Cruise\View\bin\Debug\net5.0\View.pdb
+C:\Users\serbi\Projects\Cruise\Cruise\View\bin\Debug\net5.0\View.Views.dll
+C:\Users\serbi\Projects\Cruise\Cruise\View\bin\Debug\net5.0\View.Views.pdb
+C:\Users\serbi\Projects\Cruise\Cruise\View\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\serbi\Projects\Cruise\Cruise\View\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\serbi\Projects\Cruise\Cruise\View\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\serbi\Projects\Cruise\Cruise\View\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\serbi\Projects\Cruise\Cruise\View\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\serbi\Projects\Cruise\Cruise\View\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\serbi\Projects\Cruise\Cruise\View\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\serbi\Projects\Cruise\Cruise\View\bin\Debug\net5.0\Domain.dll
+C:\Users\serbi\Projects\Cruise\Cruise\View\bin\Debug\net5.0\Model.dll
+C:\Users\serbi\Projects\Cruise\Cruise\View\bin\Debug\net5.0\Domain.pdb
+C:\Users\serbi\Projects\Cruise\Cruise\View\bin\Debug\net5.0\Model.pdb
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\View.csprojAssemblyReference.cache
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\View.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\View.AssemblyInfoInputs.cache
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\View.AssemblyInfo.cs
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\View.csproj.CoreCompileInputs.cache
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\View.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\View.RazorComponent.input.cache
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\View.RazorComponent.output.cache
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\RazorDeclaration\View.dll
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\View.TagHelpers.input.cache
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\View.TagHelpers.output.cache
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\View.RazorCoreGenerate.cache
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\View.RazorAssemblyInfo.cache
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\View.RazorAssemblyInfo.cs
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\staticwebassets\View.StaticWebAssets.Manifest.cache
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\staticwebassets\View.StaticWebAssets.xml
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\scopedcss\bundle\View.styles.css
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\scopedcss\projectbundle\View.bundle.scp.css
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\View.RazorTargetAssemblyInfo.cache
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\View.RazorTargetAssemblyInfo.cs
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\View.Views.pdb
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\View.csproj.CopyComplete
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\View.dll
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\ref\View.dll
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\View.pdb
+C:\Users\serbi\Projects\Cruise\Cruise\View\obj\Debug\net5.0\View.genruntimeconfig.cache
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\bin\Debug\net5.0\appsettings.json
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\bin\Debug\net5.0\View.StaticWebAssets.xml
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\bin\Debug\net5.0\View.exe
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\bin\Debug\net5.0\View.deps.json
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\bin\Debug\net5.0\View.runtimeconfig.json
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\bin\Debug\net5.0\View.runtimeconfig.dev.json
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\bin\Debug\net5.0\View.dll
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\bin\Debug\net5.0\ref\View.dll
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\bin\Debug\net5.0\View.pdb
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\bin\Debug\net5.0\View.Views.dll
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\bin\Debug\net5.0\View.Views.pdb
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\bin\Debug\net5.0\Domain.dll
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\bin\Debug\net5.0\Model.dll
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\bin\Debug\net5.0\Domain.pdb
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\bin\Debug\net5.0\Model.pdb
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\View.csproj.AssemblyReference.cache
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\View.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\View.AssemblyInfoInputs.cache
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\View.AssemblyInfo.cs
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\View.csproj.CoreCompileInputs.cache
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\View.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\View.RazorComponent.input.cache
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\View.RazorComponent.output.cache
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\RazorDeclaration\View.dll
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\View.TagHelpers.input.cache
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\View.TagHelpers.output.cache
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\View.RazorCoreGenerate.cache
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\View.RazorAssemblyInfo.cache
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\View.RazorAssemblyInfo.cs
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\scopedcss\bundle\View.styles.css
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\scopedcss\projectbundle\View.bundle.scp.css
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\staticwebassets\View.StaticWebAssets.Manifest.cache
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\staticwebassets\View.StaticWebAssets.xml
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\View.RazorTargetAssemblyInfo.cache
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\View.RazorTargetAssemblyInfo.cs
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\View.Views.pdb
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\View.csproj.CopyComplete
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\View.dll
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\ref\View.dll
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\View.pdb
+C:\Users\serbi\Documents\School projects\4BHITM_INSY_consoles\CruiseMVC\View\obj\Debug\net5.0\View.genruntimeconfig.cache
